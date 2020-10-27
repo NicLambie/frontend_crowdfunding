@@ -1,0 +1,17 @@
+.navbar {
+  background: forestgreen;
+  padding: 5px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  display: center;
+  align-items: center;
+}
+
+.navbar a {
+  margin: 10px;
+}
+
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
